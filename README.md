@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-💼 I'm currently improving my frontend and backend skills.
-🌱 Learning more about scalable backend systems.
-🧩 Passionate about building useful, clean, and elegant tools.
-📈 Always looking for ways to grow technically and creatively.
+- 💼 I'm currently improving my frontend and backend skills.
+- 🌱 Learning more about scalable backend systems.
+- 🧩 Passionate about building useful, clean, and elegant tools.
+- 📈 Always looking for ways to grow technically and creatively.
 
 ---
 
